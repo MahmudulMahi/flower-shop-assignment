@@ -191,6 +191,41 @@ font-weight: semibold;
 padding: 18px 0px;
 text-align: center;
 }
+.footer{
+ width: 100%;
+ height: 449px;
+ flex-shrink: 0;
+ color: white;
+ background: #111010;
+ 
+ 
+}
+.footer-title{
+color: #272727;
+text-align: center;
+font-family: Lato;
+font-size: 40px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+padding: 80px;
+}
+.ft-title{
+  color: #E55473;
+}
+.ftt-title{
+  color: #FFF;
+}
+.footer-title{
+  align-items: center;
+  
+}
+p{
+  text-align: center;
+}
+footer{
+  text-align: center;
+}
 
 
   
