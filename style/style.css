@@ -145,19 +145,17 @@ body {
 }
 
 .Hot-deal {
-  border-radius: 8px;
+  padding: 100px 0;
   background: rgba(229, 84, 115, 0.05);
-}
-
-.Hot-deal {
   display: flex;
+  justify-content: center;
+  gap: 200px;
   margin: 100px 30px;
 
 }
 
-.deal-title {
-  margin: 0px 580px;
-  align-items: center;
+.off-color {
+  color: #E55473;
 }
 
 .media {
@@ -167,6 +165,7 @@ body {
 
 .media-img {
   margin: 10px;
+
 }
 
 .subcribe-bar {
@@ -180,52 +179,57 @@ body {
 input[type=text] {
   padding: 20px 200px;
 }
-.btn-prim{
-border-radius: 5px;
-border-radius: 8px;
-background: #E55473;
-border: 0;
-color: white;
-font-size: 18px;
-font-weight: semibold;
-padding: 18px 0px;
-text-align: center;
+
+.btn-prim {
+  border-radius: 5px;
+  border-radius: 8px;
+  background: #E55473;
+  border: 0;
+  color: white;
+  font-size: 18px;
+  font-weight: semibold;
+  padding: 18px 0px;
+  text-align: center;
 }
-.footer{
- width: 100%;
- height: 449px;
- flex-shrink: 0;
- color: white;
- background: #111010;
- 
- 
+
+.footer {
+  width: 100%;
+  height: 449px;
+  flex-shrink: 0;
+  color: white;
+  background: #111010;
+
+
 }
-.footer-title{
-color: #272727;
-text-align: center;
-font-family: Lato;
-font-size: 40px;
-font-style: normal;
-font-weight: 800;
-line-height: normal;
-padding: 80px;
+
+.footer-title {
+  color: #272727;
+  text-align: center;
+  font-family: Lato;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+  padding: 80px;
 }
-.ft-title{
+
+.ft-title {
   color: #E55473;
 }
-.ftt-title{
+
+.ftt-title {
   color: #FFF;
 }
-.footer-title{
+
+.footer-title {
   align-items: center;
-  
+
 }
-p{
-  text-align: center;
-}
-footer{
+
+p {
   text-align: center;
 }
 
-
-  
+footer {
+  text-align: center;
+}
