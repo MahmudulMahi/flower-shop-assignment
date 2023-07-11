@@ -6,7 +6,7 @@ body {
   border-radius: 5px;
   border-radius: 8px;
   background: #E55473;
-  ;
+
   border: 0;
   color: white;
   font-size: 20px;
@@ -126,7 +126,7 @@ body {
   line-height: normal;
 }
 
-.icon{
+.icon {
   display: flex;
   align-items: center;
   width: 1440px;
@@ -134,8 +134,62 @@ body {
   flex-shrink: 0;
   border-radius: 8px;
   background: rgba(39, 39, 39, 0.05);
-  margin: auto
+  margin: auto;
 }
-.first-icon{
-  margin: 86px 200px;
+
+.first-icon {
+  display: flex;
+  align-items: center;
+  margin: 86px 200px 100px;
+
 }
+
+.Hot-deal {
+  border-radius: 8px;
+  background: rgba(229, 84, 115, 0.05);
+}
+
+.Hot-deal {
+  display: flex;
+  margin: 100px 30px;
+
+}
+
+.deal-title {
+  margin: 0px 580px;
+  align-items: center;
+}
+
+.media {
+  text-align: center;
+  margin: 10px 20px;
+}
+
+.media-img {
+  margin: 10px;
+}
+
+.subcribe-bar {
+  background-image: url("/Flower Asset/Rectangle\ 9.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 120px 0;
+}
+
+.section-title,
+input[type=text] {
+  padding: 20px 200px;
+}
+.btn-prim{
+border-radius: 5px;
+border-radius: 8px;
+background: #E55473;
+border: 0;
+color: white;
+font-size: 20px;
+font-weight: 20px;
+padding: 20px 20px;
+}
+
+
+  
