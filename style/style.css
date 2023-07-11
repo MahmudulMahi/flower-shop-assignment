@@ -186,9 +186,10 @@ border-radius: 8px;
 background: #E55473;
 border: 0;
 color: white;
-font-size: 20px;
-font-weight: 20px;
-padding: 20px 20px;
+font-size: 18px;
+font-weight: semibold;
+padding: 18px 0px;
+text-align: center;
 }
 
 
